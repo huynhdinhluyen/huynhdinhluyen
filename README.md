@@ -15,3 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+  ### Leetcode
+  <div align="center">
+
+  ![LeetCode Stats](https://leetcode.card.workers.dev/huynhdinhluyen?theme=auto&font=baloo&extension=null)
+
+  </div>
