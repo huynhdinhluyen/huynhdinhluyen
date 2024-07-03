@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### <img align="center" src="https://github.com/YourUsername/YourUsername/blob/main/icons/activity.gif"  width="25"/> Recent Activity
+<!--START_SECTION:activity-->
+1. 🗣 Commented on [#2944](https://github.com/actualbudget/actual/issues/2944#issuecomment-2197605111) in [actualbudget/actual](https://github.com/actualbudget/actual)
+<!--END_SECTION:activity-->
