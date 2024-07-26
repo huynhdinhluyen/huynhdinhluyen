@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 
  ### Leetcode
   <div align="center">
-  ![LeetCode Stats](https://leetcode.card.workers.dev/huynhdinhluyen?theme=auto&font=baloo&extension=null)
+  [![LeetCode Stats](https://leetcode.card.workers.dev/huynhdinhluyen?theme=auto&font=baloo&extension=null)]
   </div>
 
