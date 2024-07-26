@@ -19,3 +19,8 @@ Here are some ideas to get you started:
   [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://www.leetcode.com/huynhdinhluyen)
 </details>
 
+ ### Leetcode
+  <div align="center">
+  ![LeetCode Stats](https://leetcode.card.workers.dev/huynhdinhluyen?theme=auto&font=baloo&extension=null)
+  </div>
+
