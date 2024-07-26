@@ -17,7 +17,7 @@ Here are some ideas to get you started:
  ### Codeforces
   <div align="center">
 
-  ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=YourUsername)
+  ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=huynhdinhluyen)
 
   </div>
 
