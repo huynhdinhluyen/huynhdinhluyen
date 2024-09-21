@@ -1,16 +1,24 @@
-## Hi there 👋
+![👋 Hi, I am Luyen Huynh](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 
-<!--
-**huynhdinhluyen/huynhdinhluyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile views](https://komarev.com/ghpvc/?username=huynhdinhluyen&label=Profile%20views&color=0e75b6&style=flat)
 
-Here are some ideas to get you started:
+<div id="toc">
+  <ul align="center" style="list-style: none">
+    <summary>
+      <h1>
+        👋 Hi, I am Luyen Huynh
+      </h1>
+    </summary>
+  </ul>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ **<h3 align="left">GitHub Stats</h3>**
+
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=huynhdinhluyen&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=huynhdinhluyen&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
+</p>
+
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=huynhdinhluyen&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
+</p>
