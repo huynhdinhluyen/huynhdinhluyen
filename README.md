@@ -12,6 +12,10 @@
   </ul>
 </div>
 
+## 🚀 About Me
+- 👯 I’m looking to collaborate on open-source projects
+- 📫 How to reach me: huynhdinhluyen@gmail.com
+
  **<h3 align="left">GitHub Stats</h3>**
 
 <p align="left">
